@@ -1,4 +1,4 @@
-#**GeoMine Sentinel** : Guarding land, law, and life from above.
+# **GeoMine Sentinel** : Guarding land, law, and life from above.
 ---
  An AI-powered satellite monitoring system that detects mining footprints and cross-verifies them against legal and geospatial records to flag potential unauthorized mining.
  
