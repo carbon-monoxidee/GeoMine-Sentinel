@@ -1,4 +1,5 @@
 # **GeoMine Sentinel** : Guarding land, law, and life from above.
+An open, scalable mining-monitoring system that converts satellite observations into validated authorization-risk cases using heterogeneous public legal records.
 ---
  An AI-powered satellite monitoring system that detects mining footprints and cross-verifies them against legal and geospatial records to flag potential unauthorized mining.
  
